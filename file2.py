@@ -1,0 +1,10 @@
+x=100
+print(x,type(x))
+y=8+9j
+print(y,type(y))
+z="krishna"
+print(z,type(z))
+val=True
+print(val,type(val))
+a=5.0
+print(a,type(a))

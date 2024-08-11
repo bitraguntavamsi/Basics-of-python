@@ -1,0 +1,8 @@
+a=input("enter the value a:")
+print(a,type(a))
+b=int(input('''b:'''))
+print(b,type(b))
+c=float(input("c:"))
+print(c,type(c))
+d=complex(input('d:'))
+print(d,type(d))
