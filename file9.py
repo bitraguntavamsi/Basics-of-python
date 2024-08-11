@@ -1,6 +1,6 @@
 
-#a=(input("enter the a:"))
-#print(a,type(a))
+a=(input("enter the a:"))
+print(a,type(a))
 b=int(input("b: "))
 print(b,type(b))
 c=float(input("b:"))
