@@ -1,4 +1,4 @@
-# arithmetic "+"
+# arithmetic "+" :
 
 # int+int->int
 a=10

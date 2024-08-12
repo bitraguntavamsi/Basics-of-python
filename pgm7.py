@@ -1,4 +1,4 @@
-# "//" floor division
+# "//" floor division :
 # always be a less number
 
 #int//int->int 

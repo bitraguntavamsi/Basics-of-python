@@ -1,4 +1,4 @@
-# "**" exponent/power
+# "**" exponent/power :
 #a**b= a power of b
 #2**3=8
 
