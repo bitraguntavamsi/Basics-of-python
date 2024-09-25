@@ -28,8 +28,8 @@
 # s1.add(2)
 # print(s1)
 
-#4.pop()
-#set.pop()
+# 4.pop()
+# set.pop()
 # print(s1)
 # s2=s1.pop() # inside pop we cannot return any thing
 # s3=s1.pop()
